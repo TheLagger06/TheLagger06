@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">
+ Olá <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Victory Hand Medium-Light Skin Tone" width="25" height="25" />
+</h1>
 
 <!--
 **TheLagger06/TheLagger06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
