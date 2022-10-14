@@ -7,8 +7,7 @@ Hi, my name is Hugo. I am a curious person and enjoy the challenge of problem-so
 
 # <img src="images/Technologist.png" alt= "computer" width="25" height="25" /> Work & Education:
 
-<img src="images/work.png" alt= "computer"  />
-<!-- <table>
+<table>
 <tr>
 <td>
 
@@ -59,7 +58,7 @@ Hi, my name is Hugo. I am a curious person and enjoy the challenge of problem-so
     <br>   
 </td>
 </tr>
-</table> -->
+</table>
 
 
 #  <img src="images/Rocket.png" alt="Rocket" width="25" height="25" /> Skills :
