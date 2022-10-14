@@ -9,7 +9,7 @@ Hi, my name is Hugo. I am a curious person and enjoy the challenge of problem-so
 
 <table>
 <tr>
-<td>
+<td style="weight:50%">
 
 - <img src="images/Office.png" alt="Department Store" width="25" height="25" /> **Digital Futures**:
   - **Software Engineering**
