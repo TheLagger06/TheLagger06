@@ -83,4 +83,6 @@ The side project is a payroll CRM system with an android application where the e
 
 # <img src="images/globe.png" alt="Eyes" width="25" height="25" /> Socials:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hugo-abreu-2270a5157/) 
+
 # 📊 GitHub Stats:
