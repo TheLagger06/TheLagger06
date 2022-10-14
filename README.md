@@ -90,7 +90,7 @@ The side project is a payroll CRM system with an android application where the e
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheLagger&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLagger&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### <img src="TheLagger06/images/writing.png" alt="Writing" width="25" height="25" /> Random Dev Quote
+### <img src="images/writing.png" alt="Writing" width="25" height="25" /> Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
