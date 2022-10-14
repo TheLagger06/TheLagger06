@@ -1,18 +1,13 @@
 <h1 align="center">
- Olá <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Victory Hand Medium-Light Skin Tone" width="25" height="25" />
+ Olá <img src="images/Hand.png" alt="hand" width="25" height="25" />
 </h1>
 
-<!--
-**TheLagger06/TheLagger06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <img src="images/Technologist.png" alt= "computer" width="25" height="25" /> Work & Education:
 
-Here are some ideas to get you started:
+#  <img src="images/Rocket.png" alt="Rocket" width="25" height="25" /> Skills :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# <img src="images/Eyes.png" alt="Eyes" width="25" height="25" /> Currently:
+
+# <img src="images/globe.png" alt="Eyes" width="25" height="25" /> Socials:
+
+# 📊 GitHub Stats:
