@@ -86,3 +86,12 @@ The side project is a payroll CRM system with an android application where the e
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hugo-abreu-2270a5157/) 
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TheLagger06&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TheLagger&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLagger&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### <img src="TheLagger06/images/writing.png" alt="Writing" width="25" height="25" /> Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=TheLagger&icon=2&color=4)](https://visitcount.itsvg.in)
