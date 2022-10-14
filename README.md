@@ -39,15 +39,17 @@ Hi, my name is Hugo. I am a curious person and enjoy the challenge of problem-so
     - October 2020 - Present.
         - Final Grade : `TBC`.
         <br>
+
 - <img src="images/Graduation.png" alt="Graduation Cap" width="25" height="25" /> **East Surrey College**:
   - **Internet Software Development (FdSc)**
     - September 2016 – July, 2018.
         - Final Grade : `Merit`.
 <br>
-- <img src="images/School.png" alt="School" width="25" height="25" /> **Kingston College**:
-  - **ESOL**
-    - September 2013 – June, 2014.
-        - Final Grade : `Pass`.
+
+- <img src="images/Graduation.png" alt="Graduation Cap" width="25" height="25" /> **East Surrey College**:
+  - **Internet Software Development (FdSc)**
+    - September 2016 – July, 2018.
+        - Final Grade : `Merit`.
 <br>
 
 - <img src="images/Book.png" alt="Open Book" width="25" height="25" /> **Escola Profissional Bento de Jesus Caraça**:
