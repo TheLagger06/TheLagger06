@@ -49,6 +49,7 @@ Hi, my name is Hugo. I am a curious person and enjoy the challenge of problem-so
     - September 2013 – June, 2014.
         - Final Grade : `Pass`.
 <br>
+
 - <img src="images/Book.png" alt="Open Book" width="25" height="25" /> **Escola Profissional Bento de Jesus Caraça**:
   - **2 Years of studying Computer Equipment Management Technician**
     - June 2010 – June, 2012.
