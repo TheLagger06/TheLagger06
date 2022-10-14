@@ -71,13 +71,11 @@ Hi, my name is Hugo. I am a curious person and enjoy the challenge of problem-so
 
 # <img src="images/Eyes.png" alt="Eyes" width="25" height="25" /> Currently:
 
-<img src="images/Technologist.png" alt="computer" width="25" height="25" />
- I’m currently working on two FullStack applications.<br>
+<img src="images/Technologist.png" alt="computer" width="25" height="25" />I’m currently working on two FullStack applications.<br>
 
  <img src="images/Video%20Game.png" alt="Gaming" width="25" height="25" />The main one is a project where people can search for other people who wants to play the same video game.<br>
  
- <img src="images/Bank.png" alt="chart" width="25" height="25" />
-The side project is a payroll CRM system with an android application where the employees can check their timetables, holidays and salary.<br>
+ <img src="images/Bank.png" alt="chart" width="25" height="25" />The side project is a payroll CRM system with an android application where the employees can check their timetables, holidays and salary.<br>
 <br>
 
 # <img src="images/globe.png" alt="Eyes" width="25" height="25" /> Socials:
