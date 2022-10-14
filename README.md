@@ -9,7 +9,7 @@ Hi, my name is Hugo. I am a curious person and enjoy the challenge of problem-so
 
 <table>
 <tr>
-<td style="weight:50%">
+<td style="width:50%">
 
 - <img src="images/Office.png" alt="Department Store" width="25" height="25" /> **Digital Futures**:
   - **Software Engineering**
@@ -34,22 +34,22 @@ Hi, my name is Hugo. I am a curious person and enjoy the challenge of problem-so
 </td>
 <td>
 
-- <img src="images/student.png" alt="Student" width="25" height="25" /> **University of Brighton**:
+- <img src="images/Student.png" alt="Student" width="25" height="25" /> **University of Brighton**:
   - **BSc Software Engineering**
     - October 2020 - Present.
         - Final Grade : `TBC`.
         <br>
-- <img src="images/graduation.png" alt="Graduation Cap" width="25" height="25" /> **East Surrey College**:
+- <img src="images/Graduation.png" alt="Graduation Cap" width="25" height="25" /> **East Surrey College**:
   - **Internet Software Development (FdSc)**
     - September 2016 – July, 2018.
         - Final Grade : `Merit`.
 <br>
-- <img src="images/school.png" alt="School" width="25" height="25" /> **Kingston College**:
+- <img src="images/School.png" alt="School" width="25" height="25" /> **Kingston College**:
   - **ESOL**
     - September 2013 – June, 2014.
         - Final Grade : `Pass`.
 <br>
-- <img src="images/book.png" alt="Open Book" width="25" height="25" /> **Escola Profissional Bento de Jesus Caraça**:
+- <img src="images/Book.png" alt="Open Book" width="25" height="25" /> **Escola Profissional Bento de Jesus Caraça**:
   - **2 Years of studying Computer Equipment Management Technician**
     - June 2010 – June, 2012.
         - First Year: `Pass`.
