@@ -87,8 +87,8 @@ Hi, my name is Hugo. I am a curious person and enjoy the challenge of problem-so
 
 
 <table style="border:none" >
-<tr>
-<td style="width:50%">
+<tr style="border:none">
+<td style="border:none">
 
 ![](https://github-readme-stats.vercel.app/api?username=TheLagger06&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
