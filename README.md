@@ -78,7 +78,7 @@ Hi, my name is Hugo. I am a curious person and enjoy the challenge of problem-so
  <img src="images/Bank.png" alt="chart" width="25" height="25" />The side project is a payroll CRM system with an android application where the employees can check their timetables, holidays and salary.<br>
 <br>
 
-# <img src="images/globe.png" alt="Eyes" width="25" height="25" /> Socials:
+# <img src="images/Globe.png" alt="Eyes" width="25" height="25" /> Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hugo-abreu-2270a5157/) 
 
@@ -87,12 +87,12 @@ Hi, my name is Hugo. I am a curious person and enjoy the challenge of problem-so
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheLagger&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLagger&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### <img src="images/writing.png" alt="Writing" width="25" height="25" /> Random Dev Quote
+### <img src="images/Writing.png" alt="Writing" width="25" height="25" /> Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TheLagger &icon=2&color=4)](https://visitcount.itsvg.in)
 
-## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLagger06&theme=blue-green)
+<!-- ## 2. Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLagger06&theme=blue-green) -->
 
