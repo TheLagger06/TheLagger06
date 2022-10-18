@@ -84,13 +84,29 @@ Hi, my name is Hugo. I am a curious person and enjoy the challenge of problem-so
 
 # 📊 GitHub Stats:
 
+
+
+<table>
+<tr>
+<td >
+
 ![](https://github-readme-stats.vercel.app/api?username=TheLagger06&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
+</td>
+<td>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheLagger06&theme=onedark&hide_border=false)<br/>
+
+</td>
+<td>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLagger06&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&)
+</td>
+</tr>
+<tr>
 
-
-
-
+</tr>
+</table>
 
 
 ### <img src="images/Writing.png" alt="Writing" width="25" height="25" /> Random Dev Quote
