@@ -83,12 +83,19 @@ Hi, my name is Hugo. I am a curious person and enjoy the challenge of problem-so
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hugo-abreu-2270a5157/) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TheLagger06&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TheLagger&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLagger&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=TheLagger06&theme=onedark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=TheLagger06&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLagger06&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&)
+
+
+
+
+
 
 ### <img src="images/writing.png" alt="Writing" width="25" height="25" /> Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TheLagger&icon=2&color=4)](https://visitcount.itsvg.in)
+
