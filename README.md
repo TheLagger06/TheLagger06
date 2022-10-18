@@ -98,10 +98,3 @@ Hi, my name is Hugo. I am a curious person and enjoy the challenge of problem-so
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TheLagger&icon=2&color=4)](https://visitcount.itsvg.in)
-
-<<<<<<< HEAD
-=======
-<!-- ## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLagger06&theme=blue-green) -->
-
->>>>>>> 285febc236d0a2df6bcc7a17e7abaa7a7575648e
