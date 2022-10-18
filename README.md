@@ -88,7 +88,7 @@ Hi, my name is Hugo. I am a curious person and enjoy the challenge of problem-so
 
 <table>
 <tr>
-<td >
+<td style="width:50%">
 
 ![](https://github-readme-stats.vercel.app/api?username=TheLagger06&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
@@ -98,13 +98,13 @@ Hi, my name is Hugo. I am a curious person and enjoy the challenge of problem-so
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheLagger06&theme=onedark&hide_border=false)<br/>
 
 </td>
+</tr>
+<tr>
 <td>
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLagger06&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&)
 </td>
-</tr>
-<tr>
-
 </tr>
 </table>
 
