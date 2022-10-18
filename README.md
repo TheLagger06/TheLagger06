@@ -99,9 +99,8 @@ Hi, my name is Hugo. I am a curious person and enjoy the challenge of problem-so
 
 </td>
 </tr>
-<tr>
-<td>
-
+<tr style="border:none">
+<td style="border:none">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLagger06&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&)
 </td>
