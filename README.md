@@ -86,7 +86,7 @@ Hi, my name is Hugo. I am a curious person and enjoy the challenge of problem-so
 
 
 
-<table>
+<table style="border= none" >
 <tr>
 <td style="width:50%">
 
