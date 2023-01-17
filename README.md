@@ -2,7 +2,8 @@
  Olá <img src="images/Hand.png" alt="hand" width="25" height="25" />
 </h1>
 
-Hi, my name is Hugo. I am a curious person and enjoy the challenge of problem-solving. I am constantly working on developing my skills and improving my knowledge to find the most effective and efficient solution to challenges. I am also constantly pushing myself to learn new skills which makes me more motivated to take on new tasks and challenges. I feel that this combination aids my goal of continuous improvement and personal growth.<br>
+Hi, my name is Hugo. I am an analytical person and enjoy the challenge of problem-solving. I am constantly working on developing my skills and improving my knowledge to find the most effective and efficient solution to challenges. I am also constantly pushing myself to learn new skills which makes me more motivated to take on new tasks which I belive continues my improvement and continous growth. 
+<br>
 <br>
 
 # <img src="images/Technologist.png" alt= "computer" width="25" height="25" /> Work & Education:
